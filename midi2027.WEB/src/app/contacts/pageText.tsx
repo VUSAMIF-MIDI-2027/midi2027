@@ -21,7 +21,7 @@ export const text: Record<Lang, ContactsPageText> = {
     watermark: "CONTACT",
     title: "Reach us however works for you.",
     intro: "Want to become a partner, sponsor, follow the news or just say hello? Pick the channel that suits you best.",
-    channelsEyebrow: "Find us here",
+    channelsEyebrow: "MIDI social media",
     operaTitle: "MIDI Rock Opera",
     stats: [
       { value: 50, label: "Years of history" },
@@ -58,7 +58,7 @@ export const text: Record<Lang, ContactsPageText> = {
     watermark: "KONTAKTAI",
     title: "Susisiekite jums patogiausiu būdu.",
     intro: "Norite tapti partneriu, rėmėju, sekti naujienas ar tiesiog pasisveikinti? Pasirinkite jums tinkamiausią kanalą.",
-    channelsEyebrow: "Raskite mus čia",
+    channelsEyebrow: "MIDI socialiniai tinklai",
     operaTitle: "MIDI Roko opera",
     stats: [
       { value: 50, label: "Metų istorijos" },
