@@ -7,6 +7,7 @@ Backend API for the midi2027 project.
 - ASP.NET Core
 - C#
 - Instagram Graph API
+- TikTok API
 - Swagger / OpenAPI
 
 ## Development
