@@ -1,6 +1,6 @@
 # midi2027
 
-Backend API for the midi2027 project.
+Backend API and Next.js project for the midi2027 project.
 
 ## Tech Stack
 
@@ -19,6 +19,7 @@ dotnet run
 ```
 
 Run the front-end
+
 ```bash
 npm run dev
 ```
