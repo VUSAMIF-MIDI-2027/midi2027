@@ -46,7 +46,7 @@ const dosis = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Midi",
+  title: "MIDI",
   description: "MIDI Pagrindinis",
 };
 
