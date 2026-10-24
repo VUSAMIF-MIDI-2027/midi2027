@@ -1,6 +1,6 @@
 "use client";
 
-import midiCat_NotFound from "../../public/midiCat_NotFound.png"
+import midiCat_NotFound from "../../public/midiCat_NotFound.webp"
 import Image from "next/image"
 import Link from "next/link"
 import { text } from "@/app/not-foundText"
