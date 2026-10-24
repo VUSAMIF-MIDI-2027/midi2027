@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import tape from "../../../public/constructionTape.png";
-import cat from "../../../public/midiCat.png"
+import cat from "../../../public/midiCat.webp";
 import { text } from "@/app/activities/pageText"
 import { useLanguage } from "@/context/LanguageContext";
 
