@@ -1,24 +1,11 @@
-# midi2027
+# 🚧 Developer Branch
 
-Backend API for the midi2027 project.
+This branch contains the latest development version of the project and is currently under active development.
 
-## Tech Stack
+## Development Guidelines
 
-- ASP.NET Core
-- C#
-- Instagram Graph API
-- TikTok API
-- Swagger / OpenAPI
+- Use this branch as the source when copying files or changes.
+- Create new branches from this branch when starting new work.
+- Pull the latest changes before making updates.
 
-## Development
-
-Run the API:
-
-```bash
-dotnet run
-```
-
-Run the front-end
-```bash
-npm run dev
-```
+> **Note:** Features and code in this branch may change and are not yet considered production-ready.
