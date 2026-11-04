@@ -8,7 +8,6 @@ import { useLanguage } from "@/context/LanguageContext";
 import { Typewriter } from "@/compoments/Typerwriter";
 import { Countdown } from "@/compoments/CountdownTimer";
 import Link from "next/link";
-import UpcomingEvent from "@/compoments/Home/UpcomingEvent";
 import About from "@/compoments/Home/About";
 import { LatestFeed } from "@/compoments/Home/LatestFeed";
 
@@ -87,7 +86,6 @@ export default function Home() {
                 </div>
             </div>
 
-            <UpcomingEvent />
             <About />
             <LatestFeed />
             <section className="bg-[#0075b5] px-6 py-14 text-white sm:px-12" aria-labelledby="updates-title">
