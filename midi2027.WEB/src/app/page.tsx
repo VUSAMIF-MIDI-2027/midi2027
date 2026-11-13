@@ -10,6 +10,7 @@ import { Countdown } from "@/compoments/CountdownTimer";
 import Link from "next/link";
 import About from "@/compoments/Home/About";
 import { LatestFeed } from "@/compoments/Home/LatestFeed";
+import MidiMap from '@/compoments/MidiMap';
 
 export default function Home() {
 
