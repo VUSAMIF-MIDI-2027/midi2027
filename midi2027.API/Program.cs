@@ -50,7 +50,8 @@ namespace midi2027.API
                                 AutoReplenishment = true
                             }));
                 });
-
+                
+                builder.Services.AddSingleton<midi2027.API.Services.MapLocationService>();
                 var app = builder.Build();
 
                 // Configure the HTTP request pipeline.

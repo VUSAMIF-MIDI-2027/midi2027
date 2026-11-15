@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import MidiMap from '@/compoments/MidiMap'; // Pakeisk kelią, jei tavo komponentas kitur
+import MidiMap from '@/compoments/MidiMap';
 
 export default function PagrindinisPage() {
   return (
@@ -12,7 +12,7 @@ export default function PagrindinisPage() {
           Čia yra istorinis MIDI renginių ir vietų žemėlapis.
         </p>
         
-        {/* Čia įsikelia tavo žemėlapis */}
+        {}
         <MidiMap />
       </div>
     </main>
